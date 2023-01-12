@@ -7,8 +7,6 @@ app_version: 1.0.2
 
 ## Hello :)
 
-<br/>
-
 [test doc](test-doc.xw9k6.sw.md)
 
 <br/>
