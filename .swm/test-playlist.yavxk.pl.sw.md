@@ -6,8 +6,8 @@ app_version: 1.0.2
 ---
 
 <!-- Steps - Do not remove this comment -->
-1. [test doc](test-doc.xw9k6.sw.md)
-2. [test doc 2](test-doc-2.i0fof.sw.md)
+1. [test doc 2](test-doc-2.i0fof.sw.md)
+2. [test doc](test-doc.xw9k6.sw.md)
 
 
 <br/>
